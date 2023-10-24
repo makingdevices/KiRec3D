@@ -1,14 +1,14 @@
 [Coordinates]
 main_screen_x: 500
 main_screen_y: 500
-main_screen_increment: 30
+main_screen_increment: 15
 save_x: 10
 save_y: 30
 save_png: 50
 
 [Time]
-var_init: 20
-var_waitrender: 10
+var_init: 10
+var_waitrender: 20
 
 [Screenshot]
-var_number: 100
+var_number: 500
